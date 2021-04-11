@@ -1,6 +1,6 @@
 # hey, i'm lelia 🍍
 
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/A3Rx4cNC">
   <img align="left" alt="discord" width="30px" src="https://raw.githubusercontent.com/lelia/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/le1ia/">
@@ -12,6 +12,8 @@
 <a href="https://www.instagram.com/le1ia">
   <img align="left" alt="instagram" width="30px" src="https://raw.githubusercontent.com/lelia/peterthehan/master/assets/instagram.svg" />
 </a>
+
+<br />
 <br />
 
 ## 🤔 what's in a name?
