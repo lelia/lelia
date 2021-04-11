@@ -1,5 +1,7 @@
 # hey, i'm lelia 🍍
 
+<br />
+
 <a href="https://discord.gg/A3Rx4cNC">
   <img align="left" alt="discord" width="30px" src="https://raw.githubusercontent.com/lelia/peterthehan/master/assets/discord.svg" />
 </a>
@@ -21,14 +23,14 @@
 - My name is often confused with more common names like `leila` or `lila`, but I assure you, it's different - and probably how I managed to snag [this handle](https://github.com/lelia) 😛
 - How to pronounce `lelia`? It's somewhat up for interpretation, but the easiest way to remember is that it's like `amelia`, `delia`, `celia` - just with an `"L"`.
 - What does my name mean? Well, if noted authority [babynamewizard.com](https://www.babynamewizard.com/baby-name/girl/lelia) is to be believed: 
-> `Lelia` is a contracted variant of `Eulalia`, a compound name composed of the Greek elements `eu` (_well, good, fair_) and `lalein` (_to talk_): hence, "_well-spoken."_
+> `Lelia` is a contracted variant of `Eulalia`, a compound name composed of the Greek elements `eu` (_well, good, fair_) and `lalein` (_to talk_): hence, "_well-spoken_".
 
 Hey, I'll take it!
 
 ## 👩‍💻 what do I do?
 
 - I'm currently a [Staff Software Engineer](https://www.linkedin.com/in/le1ia) at [Wayfair](https://github.com/wayfair), most recently working to shine a spotlight on innovative open-source work through [Auxiliary engagements](https://tech.wayfair.com/2020/06/what-is-auxiliary-engineering/), platform automation, and [Developer Relations](https://slack.engineering/defining-a-career-path-for-developer-relations/) :octocat:
-- Previously, I was Tech Lead for a centralized team which created frictionless, language-agnostic testing experiences for developers - with a particular focus on adopting open-source tools like [Pact](https://github.com/pact-foundation) and [Karate](https://github.com/intuit/karate), and creating plugins for integration with [Buildkite](https://github.com/buildkite) - a CI platform for the modern era.
+- Previously, I was Tech Lead for a centralized team which created frictionless, language-agnostic testing experiences for developers - with a particular focus on adopting open-source tools like [Pact](https://github.com/pact-foundation) and [Karate](https://github.com/intuit/karate), and creating plugins for integration with [Buildkite](https://github.com/buildkite) - a CI platform for the modern era!
 - Before Wayfair, I worked at a handful of technology companies - spanning everything from [enterprise security](https://www.sophos.com/) to [storage servers](https://editshare.com/) to [consumer robotics](http://jibo.com/) 🤖
 
 ## 💻 how do I work?
