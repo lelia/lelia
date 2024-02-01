@@ -31,9 +31,9 @@ Hey, I'll take it!
 
 ## 👩‍💻 what do I do?
 
-- I'm currently an [Open Source Architect](https://www.linkedin.com/in/le1ia) @ [Outshift](https://eti.cisco.com) by [Cisco](https://cisco.com). Previously, I served as a founding member of [Wayfair](https://wayfair.com)'s [Open Source Program Office](https://wayfair.github.io), as well as Staff Engineer for their Development Platforms organization :octocat:
+- I'm currently an [Open Source Architect](https://www.linkedin.com/in/le1ia) @ [Outshift](https://outshift.cisco.com) by [Cisco](https://cisco.com). Previously, I served as a founding member of [Wayfair](https://wayfair.com)'s [Open Source Program Office](https://wayfair.github.io), as well as Staff Engineer for their Development Platforms organization :octocat:
 - Prior to open source work, I was Tech Lead for a centralized team which created frictionless, language-agnostic testing experiences for developers — with a particular focus on adopting open-source tools like [Pact](https://github.com/pact-foundation) and [Karate](https://github.com/intuit/karate), and creating plugins for integration with [Buildkite](https://github.com/buildkite) — a CI platform for the modern era!
-- Before _all_ of that, I worked at a handful of technology companies — spanning everything from [enterprise security](https://www.sophos.com/) to [storage servers](https://editshare.com/) to [consumer robotics](http://jibo.com/) 🤖
+- Before _all_ of that, I worked at a handful of technology companies — spanning everything from [enterprise security](https://sophos.com) to [storage servers](https://editshare.com) to [consumer robotics](https://robotsguide.com/robots/jibo) 🤖
 
 ## 💻 how do I work?
 
