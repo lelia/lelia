@@ -28,8 +28,8 @@ Hey, I'll take it!
 
 ## 👩‍💻 what do I do?
 
-- I'm currently a [Senior Solutions Architect](https://www.linkedin.com/in/le1ia) @ [Buildkite](https://buildkite.com) 🪁. Previously, I worked as a technical architect in open source at both Cisco and Wayfair, serving as a foundational member of the Open Source Program Office [(OSPO)](https://github.com/todogroup/ospodefinition.org) for each.
-- Prior to open source work, I held roles as staff engineer and technical lead for platform engineering at Wayfair, focusing on frictionless testing at scale, developing plugins for integration with Buildkite, and founding a department-wide mentorship program.
+- I'm currently a [Senior Solutions Architect](https://www.linkedin.com/in/le1ia) @ [Buildkite](https://buildkite.com) 🪁. Previously, I worked as a technical architect in open source at both [Cisco](https://www.cisco.com) and [Wayfair](https://www.wayfair.com), serving as a foundational member of the Open Source Program Office [(OSPO)](https://github.com/todogroup/ospodefinition.org) for each.
+- Prior to open source work, I held roles as staff engineer and technical lead for platform engineering at Wayfair, focusing on frictionless testing at scale, developing plugins for Buildkite, and founding a department-wide mentorship program.
 - Before _all_ of that, I worked at a handful of technology companies — spanning everything from [enterprise security](https://sophos.com) to [storage servers](https://editshare.com) to [consumer robotics](https://robotsguide.com/robots/jibo) 🤖
 
 ## 💻 how do I work?
