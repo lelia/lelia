@@ -3,9 +3,6 @@
 <!-- markdownlint-disable MD033 -->
 <br />
 
-<a href="https://discord.gg/A3Rx4cNC">
-  <img align="left" alt="discord" width="30px" src="https://raw.githubusercontent.com/lelia/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/le1ia/">
   <img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/lelia/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -31,8 +28,8 @@ Hey, I'll take it!
 
 ## 👩‍💻 what do I do?
 
-- I'm currently an [Open Source Architect](https://www.linkedin.com/in/le1ia) @ [Outshift](https://outshift.cisco.com) by [Cisco](https://cisco.com). Previously, I served as a founding member of [Wayfair](https://wayfair.com)'s [Open Source Program Office](https://wayfair.github.io), as well as Staff Engineer for their Development Platforms organization :octocat:
-- Prior to open source work, I was Tech Lead for a centralized team which created frictionless, language-agnostic testing experiences for developers — with a particular focus on adopting open-source tools like [Pact](https://github.com/pact-foundation) and [Karate](https://github.com/intuit/karate), and creating plugins for integration with [Buildkite](https://github.com/buildkite) — a CI platform for the modern era!
+- I'm currently a [Senior Solutions Architect](https://www.linkedin.com/in/le1ia) @ [Buildkite](https://buildkite.com) 🪁. Previously, I worked as a technical architect in open source at both Cisco and Wayfair, serving as a foundational member of the Open Source Program Office [(OSPO)](https://github.com/todogroup/ospodefinition.org) for each.
+- Prior to open source work, I held roles as staff engineer and technical lead for platform engineering at Wayfair, focusing on frictionless testing at scale, developing plugins for integration with Buildkite, and founding a department-wide mentorship program.
 - Before _all_ of that, I worked at a handful of technology companies — spanning everything from [enterprise security](https://sophos.com) to [storage servers](https://editshare.com) to [consumer robotics](https://robotsguide.com/robots/jibo) 🤖
 
 ## 💻 how do I work?
