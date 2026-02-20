@@ -20,7 +20,6 @@ Hey, I'll take it!
 
 - I'm a big fan of keyboard shortcuts, workflow improvement, and [automating things](https://github.com/lelia/easy-mac).
 - My preferred [Terminal-based](https://iterm2.com/) text editor is [Vim](https://www.vim.org/), but I won't fight you if you use [Emacs](https://www.gnu.org/software/emacs/) 🤓
-- For IDEs, I tend to stick with [VSCode](https://github.com/microsoft/vscode) (for Bash, Python, PHP, Javascript, etc.) and [IntelliJ IDEA](https://www.jetbrains.com/idea/) (for Java and Rust) — _always_ with Vim key bindings.
 - Since I hail from a non-CS background (_film major!_), I'm always on the lookout for unique and interesting ways to learn. If given the choice between a densely-packed textbook and an interactive tutorial which teaches practical applications of a technical concept, I'll choose the latter every time.
 
 ## ✨ what else do I do?
